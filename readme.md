@@ -42,7 +42,7 @@ scorpy
 
 ## install ipython kernal
 
-  python -m ipykernel install --user --name p3378 --display-name "Python (p3378)"
+    python -m ipykernel install --user --name p3378 --display-name "Python (p3378)"
 
 
 
